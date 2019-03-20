@@ -1,5 +1,5 @@
 body {
-  background-color: gray;
+  background-color: ;
   color: ;
   font-family: ;
   margin: ;
@@ -16,7 +16,7 @@ img {
   width: ;
 }
 
-.picture {
+.title {
   color: ;
 }
 #paragraph {

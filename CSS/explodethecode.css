@@ -1,4 +1,5 @@
 body {
+  background-image: url(https://cdn.friendsoftheearth.uk/sites/default/files/styles/hero_image/public/media/images/wood-1209632_1920.jpg?itok=vHXmWYMr);
   background-color: lightblue;
   color: 		#00000;
   font-family: serif;
@@ -18,7 +19,8 @@ img {
 }
 
 .title {
-  color: black;
+  color: white;
+  font-family: serif;
 }
 
 .carousel-inner{
@@ -32,5 +34,9 @@ img {
 }
 
 #paragraph {
-  color: 	dodgerblue;
+  color: 	white;
+}
+
+#paragraph2{
+  color: white;
 }

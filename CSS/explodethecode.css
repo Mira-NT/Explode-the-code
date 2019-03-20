@@ -1,5 +1,6 @@
 body {
   background-color: lightblue;
+  background-image: wood.jpg;
   color: 		#00000;
   font-family: serif;
   margin: 10px;
@@ -10,15 +11,27 @@ div {
 }
 
 img {
-  background-color: steelblue;
+  background-color: white;
   padding: 5px;
   height: 25vh;
   width: 25vw;
+  text-align: center;
 }
 
 .title {
   color: black;
 }
+
+.carousel-inner{
+  width: 40vw;
+  height: 40vh;
+  text-align: center;
+}
+
+.carousel-item{
+  text-align: center;
+}
+
 #paragraph {
   color: 	dodgerblue;
 }

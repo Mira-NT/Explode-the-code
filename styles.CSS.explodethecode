@@ -1,0 +1,24 @@
+body {
+  background-color: ;
+  color: 		;
+  font-family: ;
+  margin: ;
+}
+
+div {
+  padding: ;
+}
+
+img {
+  background-color: ;
+  padding: ;
+  height: ;
+  width: ;
+}
+
+.duck {
+  color: ;
+}
+#paragraph {
+  color: 	;
+}
